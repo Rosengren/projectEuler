@@ -2,9 +2,9 @@
 
 ###Description
 
-[ProjectEuler](http://www.projecteuler.net) is a website that holds a large set of mathematical and computational problems dealing with massive data sets that require clever programming solutions to solve.
+[ProjectEuler](http://www.projecteuler.net) is a website that holds a large set of mathematical and computational problems dealing with massive data sets that require clever programming solutions in order to solve them.
 
-###List of Problems (title):
+###List of Problems Solved:
 
 1. Multiples of 3 and 5
 1. Even Fibbonacci numbers
@@ -32,4 +32,7 @@
 
 ###Note
 
-Project Euler asks for the numerical answer for each problem, which means that their is only one solution per question. However, I've some or several of my solutions allow the user to input any number. This means that my solutions above allow you to solve a specific type of problem for any given value(s).
+Project Euler asks for the numerical answer for each problem, which means that their is only one solution per question. However, some or several of my solutions allow the user to input any number. This means that the solutions above allow you to solve a specific type of problem for any given value(s).
+
+
+Some of these solutions require parameters. 
